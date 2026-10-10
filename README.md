@@ -4,19 +4,19 @@
 This project presents an interactive Power BI dashboard designed to analyze D-Mart retail sales performance, customer demographics, product contribution, purchasing behavior, and operational metrics.
 The dashboard helps transform sales data into meaningful business insights through KPI cards, charts, tables, and interactive filters.
 
-Table of Contents
-Problem Statement
-Project Objectives
-Dataset
-Tools and Technologies
-Data Cleaning and Preparation
-Dashboard Features
-Dashboard Screenshots
-Key Findings
-Business Recommendations
-Project Structure
-conclusion
-Author
+### Table of Contents
+- Problem Statement
+- Project Objectives
+- Dataset
+- Tools and Technologies
+- Data Cleaning and Preparation
+- Dashboard Features
+- Dashboard Screenshots
+- Key Findings
+- Business Recommendations
+- Project Structure
+- conclusion
+- Author
 
 ### Problem Statement
 D-Mart, a leading retail chain, wants to upgrade its decision-making with data-driven insights. The goal is to:
