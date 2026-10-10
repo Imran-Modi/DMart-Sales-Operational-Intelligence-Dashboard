@@ -51,13 +51,13 @@ The dashboard analyzes retail data related to:
 - Discount bands and product ratings
 ---
 
-### Tools and Technologies
+### Tools & Technologies
 - Microsoft Power BI Desktop
 - Power Query Editor
 - DAX (Data Analysis Expressions)
 ---
 
-### Data Cleaning and Preparation
+### Data Cleaning & Preparation
 Document the transformations actually performed, such as:
 - Checking missing and duplicate values
 - Standardizing column names and text values
@@ -133,6 +133,9 @@ These insights support data-driven decisions and better business strategies.
 This project demonstrates practical skills in data cleaning, analysis, visualization, and business intelligence.
 
 ---
+
+### 👤Author
+***Imran Modi***
 
 
 
