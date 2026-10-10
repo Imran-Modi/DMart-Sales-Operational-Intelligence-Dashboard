@@ -11,6 +11,7 @@ Dataset
 Tools and Technologies
 Data Cleaning and Preparation
 Dashboard Features
+Dashboard Screenshots
 Key Findings
 Repository Structure
 conclusion
