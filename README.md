@@ -34,6 +34,16 @@ Analyze payment methods and shipping modes.
 Compare discount bands and product ratings.
 Monitor state-level sales and cancellation metrics.
 
+Dataset
+The dashboard analyzes retail data related to:
+Sales and order metrics
+Product names and product types
+Customer gender and purchasing behavior
+Monthly and yearly sales trends
+State-wise operational performance
+Payment methods and shipping modes
+Discount bands and product ratings
+
 Tools and Technologies
 Microsoft Power BI Desktop
 Power Query Editor
@@ -60,6 +70,8 @@ Compares order statuses, shipping modes, purchasing behavior, and state-wise ope
 
 4. Key Findings
 Summarizes sales trends, revenue contribution, customer metrics, and potential operational improvement areas.
+
+Dashboard Screenshots
 
 Key Findings
 Overall Sales Performance: The dashboard reports $17.87 million in revenue, 25,000 orders, an average order value of $775.36, and 1,784 cancellations.
