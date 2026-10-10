@@ -94,14 +94,14 @@ Presents discount analysis, product ratings, state-wise sales performance, and o
 ---
 
 ### Key Findings
-1. Overall Sales Performance: The dashboard reports $17.87 million in revenue, 25,000 orders, an average order value of $775.36, and 1,784 cancellations.
-2. Sales Trends: Monthly sales fluctuate across 2021–2023, indicating potential seasonal patterns that can support sales forecasting and inventory planning.
-3. Product Performance: Local products contribute the highest revenue ($8.94 million), followed by branded products ($5.41 million) and imported products ($3.53 million).
-4. Customer Demographics: Male customers contribute approximately 57% of revenue, compared with 43% from female customers, while average order values remain similar.
-5. Payment and Shipping: Debit appears to be the leading payment category, while free shipping accounts for the largest share of orders.
-6. Discount Analysis: The moderate discount band (10–25%) generates the highest revenue, at approximately $6.68 million.
-7. Operational Performance: Maharashtra records the highest revenue among the four displayed states, while Telangana has the lowest displayed cancellation metric.
-8. Customer Insights: The dashboard suggests no clear relationship between website engagement, discount levels, and customer purchasing behavior or product ratings.
+1. **Overall Sales Performance:** The dashboard reports **$17.87 million in revenue**, **25,000 orders**, an **average order value of $775.36**, and **1,784 cancellations**.
+2. **Sales Trends:** Monthly sales fluctuate across **2021–2023**, indicating potential seasonal patterns that can support sales forecasting and inventory planning.
+3. **Product Performance:** **Local products** contribute the highest revenue (**$8.94 million**), followed by **branded products ($5.41 million)** and **imported products ($3.53 million)**.
+4. **Customer Demographics:** **Male customers contribute approximately 57% of revenue**, compared with **43% from female customers**, while average order values remain similar.
+5. **Payment and Shipping:** **Debit** appears to be the leading payment category, while **free shipping** accounts for the largest share of orders.
+6. **Discount Analysis:** The **moderate discount band (10–25%)** generates the highest revenue, at approximately **$6.68 million**.
+7. **Operational Performance:** **Maharashtra** records the highest revenue among the four displayed states, while **Telangana** has the lowest displayed cancellation metric.
+8. **Customer Insights:** The dashboard suggests **no clear relationship between website engagement, discount levels, and customer purchasing behavior or product ratings**.
 ---
 
 ### Business Recommendations
