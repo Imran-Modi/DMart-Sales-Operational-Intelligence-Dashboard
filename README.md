@@ -124,7 +124,6 @@ dmart-sales-analytics-dashboard/
 └── docs/
     └── data-preparation.md
 ```
-
 ### Conclusion
 The D-Mart Sales Analytics Dashboard uses Power BI to transform retail data into meaningful business insights.
 It analyzes revenue, orders, customer demographics, product performance, discounts, and cancellations.
